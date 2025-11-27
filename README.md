@@ -4,7 +4,7 @@
 
 I specialize in **low-level systems programming**, **reverse engineering**, and **modern systems languages** (Rust, Go, C, C#). My work focuses on understanding how software functions at a fundamental level—deconstructing compiled code to build efficient, performant utilities and exploring next-generation programming paradigms.
 
-[**wednesday.wtf**](https://wednesday.wtf) • [**cal@wednesday.wtf**](mailto:cal@wednesday.wtf)
+[**wednesday.wtf**](https://wednesday.wtf) • [**ckaspian@pm.me**](mailto:ckaspian@pm.me)
 
 ---
 
